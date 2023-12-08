@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+[Bb]in/
+[Oo]bj/

@@ -1,0 +1,27 @@
+[
+    {
+        "bookId": 17,
+        "name": "Harry Potter",
+        "pages": 267,
+        "genre": "Drama",
+        "author":{
+            "authorId": 109,
+            "name": "J.K. Rowling"
+        }
+    },
+    {
+        "bookId": 54,
+        "name": "Memory Man",
+        "pages": 560
+    },
+    {
+        "bookId": 66,
+        "name" : "Exhalation",
+        "pages" : 368
+    },
+    {
+        "bookId": 91,
+        "name" : "It ends with us",
+        "pages" : 384
+    }
+]
