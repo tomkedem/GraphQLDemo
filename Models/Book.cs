@@ -1,4 +1,4 @@
-public class Book  {
+public class Book : IReadingMaterials  {
     public int BookId { get; set; }
     public string Name { get; set; }
     public int Pages { get; set; }
