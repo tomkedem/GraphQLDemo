@@ -12,7 +12,15 @@
     {
         "bookId": 54,
         "name": "Memory Man",
-        "pages": 560
+        "pages": 560,
+        "reviews": [
+            {
+                "reviewId": 67,
+                "rating": 5,
+                "description": "Areal page turner",
+                "user": "Tomer"
+            }
+        ]
     },
     {
         "bookId": 66,

@@ -6,6 +6,7 @@ public class Book  {
     public DateTime? PublishDate { get; set; }
     public BookGenre Genre { get; set; }
     public Author? Author { get; set; }
+    public BookReview[] Reviews { get; set; }
 }
 
 public enum BookGenre{
